@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+
+    <string name="title">Singapore Banks</string>
+    <string name="titlechi">新加坡银行</string>
+
+    <string name="ocbc">OCBC</string>
+    <string name="dbs">DBS</string>
+    <string name="uob">UOB</string>
+
+    <string name="ocbcchi">华侨银行</string>
+    <string name="dbschi">星展银行</string>
+    <string name="uobchi">大华银行</string>
+
+    <string name="description">Hold the buttons to call or go to website.</string>
+    <string name="descriptionchi">按住按钮呼叫或访问网站</string>
+
+
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="favourite">Favourite</string>
+    <string name="favouriteoff">Unfavourite</string>
+
+</resources>
